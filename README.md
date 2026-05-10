@@ -43,7 +43,7 @@ A WordPress plugin that integrates [Multiavatar](https://multiavatar.com) to gen
 
 ```bash
 cd /wp-content/plugins/
-git clone https://github.com/yourusername/multiavatar-wordpress.git
+git clone https://github.com/ActonMartin/multiavatarForWordpress.git
 ```
 
 ## 🚀 Usage
@@ -242,7 +242,7 @@ Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for de
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/multiavatar-wordpress.git
+git clone https://github.com/ActonMartin/multiavatarForWordpress.git
 
 # Create a branch
 git checkout -b feature/your-feature
@@ -284,7 +284,7 @@ If this plugin helps you, consider supporting its development:
 ## 📞 Support
 
 - **Documentation:** [README_CN.md](README_CN.md) (中文文档)
-- **Issues:** [GitHub Issues](https://github.com/yourusername/multiavatar-wordpress/issues)
+- **Issues:** [GitHub Issues](https://github.com/ActonMartin/multiavatarForWordpress/issues)
 - **Multiavatar Official:** [multiavatar.com](https://multiavatar.com)
 
 ## 🗺️ Roadmap
@@ -301,4 +301,4 @@ If this plugin helps you, consider supporting its development:
 
 **Made with ❤️ by the Multiavatar Community**
 
-[Website](https://multiavatar.com) • [Documentation](README_CN.md) • [Report Bug](https://github.com/yourusername/multiavatar-wordpress/issues) • [Request Feature](https://github.com/yourusername/multiavatar-wordpress/issues)
+[Website](https://multiavatar.com) • [Documentation](README_CN.md) • [Report Bug](https://github.com/ActonMartin/multiavatarForWordpress/issues) • [Request Feature](https://github.com/ActonMartin/multiavatarForWordpress/issues)

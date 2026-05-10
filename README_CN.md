@@ -43,7 +43,7 @@
 
 ```bash
 cd /wp-content/plugins/
-git clone https://github.com/yourusername/multiavatar-wordpress.git
+git clone https://github.com/ActonMartin/multiavatarForWordpress.git
 ```
 
 ## 🚀 使用方法
@@ -242,7 +242,7 @@ DELETE FROM wp_options WHERE option_name LIKE '_transient_multiavatar_%';
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/multiavatar-wordpress.git
+git clone https://github.com/ActonMartin/multiavatarForWordpress.git
 
 # 创建分支
 git checkout -b feature/your-feature
@@ -284,7 +284,7 @@ git push origin feature/your-feature
 ## 📞 支持
 
 - **文档：** [README.md](README.md) (English)
-- **问题：** [GitHub Issues](https://github.com/yourusername/multiavatar-wordpress/issues)
+- **问题：** [GitHub Issues](https://github.com/ActonMartin/multiavatarForWordpress/issues)
 - **Multiavatar 官方：** [multiavatar.com](https://multiavatar.com)
 
 ## 🗺️ 开发路线
@@ -301,4 +301,4 @@ git push origin feature/your-feature
 
 **用 ❤️ 制作 by Multiavatar 社区**
 
-[网站](https://multiavatar.com) • [文档](README.md) • [报告 Bug](https://github.com/yourusername/multiavatar-wordpress/issues) • [功能建议](https://github.com/yourusername/multiavatar-wordpress/issues)
+[网站](https://multiavatar.com) • [文档](README.md) • [报告 Bug](https://github.com/ActonMartin/multiavatarForWordpress/issues) • [功能建议](https://github.com/ActonMartin/multiavatarForWordpress/issues)
