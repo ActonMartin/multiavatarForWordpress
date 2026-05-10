@@ -1,0 +1,75 @@
+# WordPress
+*.log
+wp-config.php
+wp-content/uploads/
+wp-content/upgrade/
+wp-content/backup-db/
+wp-content/backups/
+wp-content/blogs.dir/
+wp-content/cache/
+wp-content/upgrade/
+wp-content/w3tc-config/
+
+# Plugin specific
+*.zip
+*.tar.gz
+*.bak
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.codeartsdoer/
+
+# Debug/test files
+debug-*.php
+test-*.php
+*-test.php
+*-debug.php
+*.svg
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# But keep sponsor QR code
+!微信支付宝合并收款码.png
+
+# Documentation (keep main docs)
+安装指南.md
+问题解决指南.md
+缓存问题终极方案.md
+使用说明.md
+clear-cache.sql
+
+# Node.js (if any)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Composer (if any)
+vendor/
+composer.lock
+
+# Cache
+.cache/
+*.cache
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
